@@ -171,7 +171,8 @@ span{
         background-color: #370b04;
         background-image: url("img/restaurant1.jpg");
         background-size: cover;
-       background-position: top;
+        background-position: top;
+        background-repeat: no-repeat;
         background-attachment: scroll;
         font-size: 1.8rem;
         height:100%;

@@ -31,7 +31,6 @@ function createContact(){
     contact.appendChild(content);
 
     return contact;
-
 }
 
 function loadContact(){
@@ -41,7 +40,6 @@ function loadContact(){
     navBtnActive();
     const contact = createContact();
     content.appendChild(contact);
-
 }    
 
 export {loadContact};
